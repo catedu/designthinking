@@ -1,6 +1,6 @@
 ## Design Thinking como metodología ágil, centrada en las personas {#design-thinking-como-metodolog-a-gil-centrada-en-las-personas}
 
-![](images/image20.jpg)
+![](/images/image20.jpg)
 
 En las corporaciones y organizaciones de todo el mundo se están aplicando constantemente metodologías de diseño: para diseñar un producto, una marca, un espacio, un servicio, una aplicación móvil, un modelo de negocio…
 
@@ -10,12 +10,10 @@ Sabemos que la infancia y la juventud necesita incorporar esas capacidades para 
 
 Pero, ¿Cómo podemos ayudar a que la infancia y la juventud desarrolle dichas capacidades? Desde mi experiencia, la respuesta es clara: Dándoles la oportunidad de que experimenten y experimentando con ellos.
 
-[https://www.weforum.org/agenda/2016/01/the-10-skills-you-need-to-thrive-in-the-fourth-industrial-revolution/](https://www.google.com/url?q=https://www.weforum.org/agenda/2016/01/the-10-skills-you-need-to-thrive-in-the-fourth-industrial-revolution/&sa=D&ust=1580985740381000)
+[The 10 skills you need to thrive in the Fourth Industrial Revolution](https://www.google.com/url?q=https://www.weforum.org/agenda/2016/01/the-10-skills-you-need-to-thrive-in-the-fourth-industrial-revolution/&sa=D&ust=1580985740381000)
 
 En este enlace podemos conocer las 10 habilidades que necesitas para prosperar en la Cuarta Revolución Industrial, según el Word Economic Forum. De las diez habilidades señaladas, las tres primeras están totalmente ligadas al diseño. Son: resolución de problemas complejos (uno de los objetivos principales de la metodología Design Thinking), espíritu crítico (y yo añadiría con la capacidad de generar alternativas de mejora) y creatividad (creatividad aplicada a la búsqueda o elaboración de soluciones, uno de los pilares en los que se sustenta la metodología Design Thinking)
 
-![](images/image2.png)
+![](/images/image2.png)
 
-Video 10 habilidades en 2020 para tu entorno profesional. World Economic Forum.
-
-[https://www.facebook.com/watch/?v=10153663448076479](https://www.google.com/url?q=https://www.facebook.com/watch/?v%3D10153663448076479&sa=D&ust=1580985740381000)
+[Video 10 habilidades en 2020 para tu entorno profesional. World Economic Forum.](https://www.google.com/url?q=https://www.facebook.com/watch/?v%3D10153663448076479&sa=D&ust=1580985740381000)

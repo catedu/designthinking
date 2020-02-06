@@ -2,9 +2,9 @@
 
 ![](/images/image13.jpg)
 
-Los contenidos del curso los he elaborado con base a la experiencia que he ido atesorando impulsando el programa formativo para jóvenes estudiantes ¡WOW! Diseño, durante 6 cursos (2013-2019), en los que he facilitado la aplicación de la metodología Design Thinking en aulas de centros educativos de Aragón con docentes y alumnado de ESO y Bachillerato (He colaborado con 57 centros educativos, he realizado 220 actividades y he recorrido miles de kilómetros para visitar centros en las provincias de Zaragoza, Huesca y Teruel)  
+Los contenidos del curso los he elaborado con base a la experiencia que he ido atesorando impulsando el programa formativo para jóvenes estudiantes _¡WOW! Diseño_, durante 6 cursos (2013-2019), en los que he facilitado la aplicación de la metodología Design Thinking en aulas de centros educativos de Aragón con docentes y alumnado de ESO y Bachillerato (He colaborado con 57 centros educativos, he realizado 220 actividades y he recorrido miles de kilómetros para visitar centros en las provincias de Zaragoza, Huesca y Teruel)  
 
-¡WOW! Diseño es un programa formativo del Cadi (Centro aragonés de diseño industrial) del Departamento de Industria, Competitividad y Desarrollo Empresarial del Gobierno de Aragón.
+_¡WOW! Diseño_ es un programa formativo del Cadi (Centro aragonés de diseño industrial) del Departamento de Industria, Competitividad y Desarrollo Empresarial del Gobierno de Aragón.
 
 Durante este tiempo, he ido adaptado la metodología al contexto educativo, he traducido la terminología, he personalizado las fases de trabajo, he customizado, simplificando, adaptando herramientas, para hacerlas asequibles; en definitiva, he ido prototipando una forma de abordar el trabajo colaborativo en el aula, hasta llegar a lo que ahora os puedo mostrar.
 
@@ -20,47 +20,51 @@ Este curso va a abordar principalmente el primero de los objetivos.
 Introducción
 
 Bloque 1: ¿Qué es Design Thinking?
+- Definición
 
-        - Definición
+- Historia
 
-        - Historia
+- Principios
 
-        - Principios
-
-        - Metodología y etapas
+- Metodología y etapas
 
 Bloque 2: Design Thinking en el entorno educativo
 
-Aplicaciones
+- Aplicaciones
 
-        Experiencias
+- Experiencias
 
-        Beneficios para el docente y el alumnado
+- Beneficios para el docente y el alumnado
 
 Bloque 3: “Participa, diseña, y aprende”: Metodología colaborativa para el aula
 
-Que necesitamos para aplicarla
+- Que necesitamos para aplicarla
 
-Principios
+- Principios
 
-Metodología
+- Metodología
 
-Niveles de aplicación
+- Niveles de aplicación
 
-Casos de éxito
+- Casos de éxito
 
 Bloque 4: Metodología paso a paso: Investigación y Definición
 
-EMPATÍA Y DESAFÍO
+- EMPATÍA Y DESAFÍO
 
-Investigación: Herramientas y experiencias según aplicación
 
-Definición: Herramientas y experiencias según aplicación
+- Investigación: Herramientas y experiencias según aplicación
+
+
+- Definición: Herramientas y experiencias según aplicación
+
 
 Bloque 5: Metodología paso a paso: Ideación y prototipado/testeo
 
-         CO CREAR, VISUALIZAR E ITERAR
+- COCREAR, VISUALIZAR E ITERAR
 
-Ideación: Herramientas y experiencias según su aplicación
 
-Prototipado y testeo: Herramientas y experiencias según aplicación
+- Ideación: Herramientas y experiencias según su aplicación
+
+
+- Prototipado y testeo: Herramientas y experiencias según aplicación
