@@ -1,8 +1,7 @@
 # Summary
 
-* [Design Thinking en educación](README.md)
+* [Design Thinking en el aula](README.md)
 * [Introducción:](introduccion/README.md)
-  * [¿Un curso on-line sobre design thinking? ](introduccion/un_curso_on-line_sobre_design_thinking.md)
   * [Estructura del curso](introduccion/estructura_del_curso.md)
   * [Contenidos](introduccion/contenidos.md)
   * [Design Thinking como metodología ágil, centrada en las personas](introduccion/design_thinking_como_metodologia_agil,_centrada_en.md)
@@ -11,10 +10,11 @@
   * [Definición:](bloque_1_que_es_design_thinking/definicion.md)
   * [Historia:](bloque_1_que_es_design_thinking/historia.md)
   * [Principios](bloque_1_que_es_design_thinking/principios.md)
-  * [Metodología](bloque_1_que_es_design_thinking/metodologia.md)
+  * [Metodología y etapas](bloque_1_que_es_design_thinking/metodologia.md)
 * [Bloque 2: Design thinking en el entorno educativo](bloque_2_design_thinking_en_el_entorno_educativo/README.md)
   * [Introducción: ](bloque_2_design_thinking_en_el_entorno_educativo/introduccion.md)
   * [Aplicaciones: ](bloque_2_design_thinking_en_el_entorno_educativo/aplicaciones.md)
-  * [A- Design Thinking en el aula: ](bloque_2_design_thinking_en_el_entorno_educativo/a-_design_thinking_en_el_aula.md)
-  * [B- Docente como diseñador: ](bloque_2_design_thinking_en_el_entorno_educativo/b-_docente_como_disenador.md)
+    * [Design Thinking en el aula: ](bloque_2_design_thinking_en_el_entorno_educativo/a-_design_thinking_en_el_aula.md)
+    * [Docente como diseñador: ](bloque_2_design_thinking_en_el_entorno_educativo/b-_docente_como_disenador.md)
   * [Beneficios de la aplicación de Design Thinking en el aula](bloque_2_design_thinking_en_el_entorno_educativo/beneficios_de_la_aplicacion_de_design_thinking_en_.md)
+

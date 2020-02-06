@@ -1,6 +1,6 @@
 ## Estructura del curso {#estructura-del-curso}
 
-![](images/image18.jpg)
+![](/images/image18.jpg)
 
 El curso se divide en dos partes y cinco bloques:
 
@@ -10,6 +10,6 @@ En la segunda parte quiero compartir contigo la metodología adaptada al ámbito
 
 Cada bloque consta de una lectura con imágenes o ilustraciones, enlaces a videos explicativos complementarios, pequeñas reflexiones-ejercicios de dos minutos, presentaciones de resumen y síntesis. Además en cada bloque tendrás que resolver un pequeño cuestionario y te propondré un ejercicio práctico.
 
-![](images/image5.jpg)
+![](/images/image5.jpg)
 
 Para la realización de los ejercicios, tanto de los de 2 minutos como de los de bloque, te sugiero que tengas a mano un cuaderno pequeño, unas cuantas cuartillas grapadas, un espacio donde ir cuando quieras escribir algo o hacer alguna reflexión. Si eres más de archivos digitales, es el momento de abrir una nueva carpeta.

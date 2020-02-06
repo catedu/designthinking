@@ -1,6 +1,6 @@
 ## Contenidos {#contenidos}
 
-![](images/image13.jpg)
+![](/images/image13.jpg)
 
 Los contenidos del curso los he elaborado con base a la experiencia que he ido atesorando impulsando el programa formativo para jóvenes estudiantes ¡WOW! Diseño, durante 6 cursos (2013-2019), en los que he facilitado la aplicación de la metodología Design Thinking en aulas de centros educativos de Aragón con docentes y alumnado de ESO y Bachillerato (He colaborado con 57 centros educativos, he realizado 220 actividades y he recorrido miles de kilómetros para visitar centros en las provincias de Zaragoza, Huesca y Teruel)  
 
@@ -15,19 +15,19 @@ La metodología Design Thinking en el aula puedes aplicarla, al menos, con dos o
 
 Este curso va a abordar principalmente el primero de los objetivos.
 
-Índice contenidos
+## Índice de contenidos
 
 Introducción
 
 Bloque 1: ¿Qué es Design Thinking?
 
-Definición
+        - Definición
 
-Historia
+        - Historia
 
-Principios
+        - Principios
 
-Metodología y etapas
+        - Metodología y etapas
 
 Bloque 2: Design Thinking en el entorno educativo
 
