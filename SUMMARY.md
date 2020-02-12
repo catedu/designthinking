@@ -12,8 +12,8 @@
 
 ## Módulo 1: ¿Qué es Design Thinking?
 
-* [Definición:](bloque_1_que_es_design_thinking/definicion.md)
-* [Historia:](bloque_1_que_es_design_thinking/historia.md)
+* [Definición](bloque_1_que_es_design_thinking/definicion.md)
+* [Historia](bloque_1_que_es_design_thinking/historia.md)
 * [Principios](bloque_1_que_es_design_thinking/principios.md)
 * [Metodología y etapas](bloque_1_que_es_design_thinking/metodologia.md)
 
