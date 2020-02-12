@@ -24,7 +24,7 @@ En la misma época, John Arnold, psicólogo e ingeniero mecánico organizó en e
 
 El proceso de diseño desarrollado por Arnold implicaba la utilización de técnicas de análisis e investigación, creatividad y planificación. La figura del diseñador evoluciona y comienza a crear no solo productos, sino estrategias y negocios.
 
-Poco después, en **1957**, John Arnold deja el MIT y llega a la **Universidad de Standford** donde funda la Design Division of the Mechanical Engineering Department. Para ese departamento cuenta con un ingeniero y diseñador industrial apasionado por la psicología experimental, llamado **Bob McKim**, que introdujo “la necesidad de buscar”. Es a quién se le atribuye el tan actual concepto de diseño centrado en las personas, no en la tecnología o el negocio.(1)
+Poco después, en **1957**, John Arnold deja el MIT y llega a la **Universidad de Standford** donde funda la Design Division of the Mechanical Engineering Department. Para ese departamento cuenta con un ingeniero y diseñador industrial apasionado por la psicología experimental, llamado **Bob McKim**, que introdujo “la necesidad de buscar”. Es a quién se le atribuye el tan actual concepto de diseño centrado en las personas, no en la tecnología o el negocio.[1]
 
 Tras su fallecimiento **en 1963 es McKim quien asume la responsabilidad junto a Matt Kahn, del departamento de Arte. Ellos desarrollan el Joint Program in Design**, donde continúan desarrollando el modelo de John Arnold.
 
@@ -53,7 +53,7 @@ Ejemplo de un proyecto de diseño centrado en las necesidades de las personas.
 
 En la D.school nació **el término Design Thinking**, motivado por las quejas del alumnado, que no conseguían que el mercado laboral entendiera lo que sabía hacer, que no era otra cosa que metodología de diseño, aunque ese término no era suficientemente potente para ser aceptado por el mercado.
 
-Tim Brown, el CEO de IDEO, escribió en 2008 un artículo para el Harvard Business Review donde definió el término (2). En 2009 publica el libro Change for Design, que hizo que se hiciera famoso, el término y la metodología que subyace, a nivel mundial.
+Tim Brown, el CEO de IDEO, escribió en 2008 un artículo para el Harvard Business Review donde definió el término [^2]. En 2009 publica el libro Change for Design, que hizo que se hiciera famoso, el término y la metodología que subyace, a nivel mundial.
 
 _“Si estás en Marte y estás mirando hacia la Tierra, todas las personas que usan el término Design Thinking tienen el mismo aspecto. Todos se ven como personas que están tratando de llegar a ideas.”_ David Kelley
 
@@ -61,11 +61,14 @@ _“Si estás en Marte y estás mirando hacia la Tierra, todas las personas que 
 
 Desde la publicación de Change for Design hasta hoy en día, la metodología se ha extendido por todo el mundo, principalmente en el entorno de los negocios, pero también en el sector público, aplicándose como lenguaje común para el trabajo colaborativo y como base metodológica para disciplinas como el Service Design o Diseño de Servicios.
 
-Palabras clave. De diseño a design thinking:
+**Palabras clave**. De diseño a design thinking:
 
 Trabajo en equipo/no jerarquías/ necesidades usuario/diseñador como facilitador/+ que productos/equipos de trabajo multidisciplinares/resolver problemas de la humanidad/metodología de diseño/ investigación-creatividad y planificación/la necesidad de buscar/diseño centrado en las personas/verdaderos equipos multidisciplinares/problemas complejos/Design Thinking
 
-![](images/image8.png) Ver presentación: Definición e historia
+![](/images/image8.png) Ver presentación: Definición e historia
 
-1.  David Kelley: From Design to Design Thinking at Stanford and IDEO. María Camacho. Swinburne University of Technology.
-2.  Tim Brown. Design Thinking. Harvard Business Review 2008.
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRcZy49Yq38GjFYYlni_GxQvNIDrxbeXQZAP3wsqIRDereMQfFS9OabH3prBygAtPa6LxrmT72SOF5K/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+[1]: David Kelley: From Design to Design Thinking at Stanford and IDEO. María Camacho. Swinburne University of Technology.
+
+[2]: Tim Brown. Design Thinking. Harvard Business Review 2008.
