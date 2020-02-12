@@ -12,11 +12,13 @@
 
 ## Módulo 1: ¿Qué es Design Thinking?
 
-* [Bloque 1: ¿Qué es Design Thinking?](bloque_1_que_es_design_thinking/README.md)
-  * [Definición:](bloque_1_que_es_design_thinking/definicion.md)
-  * [Historia:](bloque_1_que_es_design_thinking/historia.md)
-  * [Principios](bloque_1_que_es_design_thinking/principios.md)
-  * [Metodología y etapas](bloque_1_que_es_design_thinking/metodologia.md)
+* [Definición:](bloque_1_que_es_design_thinking/definicion.md)
+* [Historia:](bloque_1_que_es_design_thinking/historia.md)
+* [Principios](bloque_1_que_es_design_thinking/principios.md)
+* [Metodología y etapas](bloque_1_que_es_design_thinking/metodologia.md)
+
+## Módulo 2: Design thinking en el entorno educativo
+
 * [Bloque 2: Design thinking en el entorno educativo](bloque_2_design_thinking_en_el_entorno_educativo/README.md)
   * [Introducción: ](bloque_2_design_thinking_en_el_entorno_educativo/introduccion.md)
   * [Aplicaciones: ](bloque_2_design_thinking_en_el_entorno_educativo/aplicaciones.md)
