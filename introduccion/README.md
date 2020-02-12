@@ -1,5 +1,12 @@
 # Introducción: {#introducci-n}
 
+![](/images/image12.jpg)
+
+_“Pensar como un diseñador puede transformar la forma en la que usted desarrolla sus productos, servicios, procesos y hasta su estrategia”_
+Tim Brown
+
+
+
 ## ¿Un curso on-line sobre design thinking? {#un-curso-on-line-sobre-design-thinking}
 
 Os puede parecer extraño, y, lo cierto es que lo ideal es aprender haciendo, pero tiene una justificación. Este curso es el primer paso de una aventura, un camino que podréis recorrer para integrar la metodología Design Thinking como lenguaje común para la creatividad, la participación y la colaboración en el aula.

@@ -5,10 +5,13 @@
 ## Introducción
 
 * [¿Un curso on-line sobre design thinking?](introduccion/README.md)
-  * [Estructura del curso](introduccion/estructura_del_curso.md)
-  * [Contenidos](introduccion/contenidos.md)
-  * [Design Thinking como metodología ágil, centrada en las personas](introduccion/design_thinking_como_metodologia_agil,_centrada_en.md)
-  * [Design Thinking como lenguaje común](introduccion/design_thinking_como_lenguaje_comun.md)
+* [Estructura del curso](introduccion/estructura_del_curso.md)
+* [Contenidos](introduccion/contenidos.md)
+* [Design Thinking como metodología ágil, centrada en las personas](introduccion/design_thinking_como_metodologia_agil,_centrada_en.md)
+* [Design Thinking como lenguaje común](introduccion/design_thinking_como_lenguaje_comun.md)
+
+## Módulo 1: ¿Qué es Design Thinking?
+
 * [Bloque 1: ¿Qué es Design Thinking?](bloque_1_que_es_design_thinking/README.md)
   * [Definición:](bloque_1_que_es_design_thinking/definicion.md)
   * [Historia:](bloque_1_que_es_design_thinking/historia.md)
