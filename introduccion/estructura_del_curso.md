@@ -1,6 +1,6 @@
 ## Estructura del curso {#estructura-del-curso}
 
-![](/images/image18.jpg)
+
 
 El curso se divide en dos partes y cinco bloques:
 

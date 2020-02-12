@@ -23,6 +23,8 @@ Pero sobretodo me interesa que observes la experiencia de aprendizaje de tu alum
 
 También voy a ser, en esta primera edición, tu tutora. Corregiré los ejercicios prácticos y estaré a tu disposición para resolver dudas.
 
+![](/images/image18.jpg)
+
 Como habrás podido intuir, un interés vocacional y la intención de aportar, trasluce en la preparación de este curso, que espero construyamos entre todas las personas que nos encontremos en él, como en un foro o una plaza de pueblo, en la que poder coincidir y sentir que podemos opinar, contar, compartir nuestras experiencias para trabajar juntos.
 
 Te doy la bienvenida!

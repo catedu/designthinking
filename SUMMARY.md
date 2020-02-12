@@ -1,7 +1,10 @@
 # Summary
 
 * [Design Thinking en el aula](README.md)
-* [Introducción:](introduccion/README.md)
+
+## Introducción
+
+* [¿Un curso on-line sobre design thinking?](introduccion/README.md)
   * [Estructura del curso](introduccion/estructura_del_curso.md)
   * [Contenidos](introduccion/contenidos.md)
   * [Design Thinking como metodología ágil, centrada en las personas](introduccion/design_thinking_como_metodologia_agil,_centrada_en.md)

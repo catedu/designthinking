@@ -1,5 +1,7 @@
 ## Definición: {#definici-n}
 
+![](/images/image32.jpg)
+
 Es una metodología que recoge la forma de pensar de los diseñadores y las herramientas que se utilizan en el ámbito del diseño.
 
 Su traducción es “pensamiento de diseño” o “la forma en la que piensan los diseñadores”.

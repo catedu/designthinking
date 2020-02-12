@@ -19,7 +19,8 @@ Este curso va a abordar principalmente el primero de los objetivos.
 
 Introducción
 
-Bloque 1: ¿Qué es Design Thinking?
+**Bloque 1: ¿Qué es Design Thinking?**
+
 - Definición
 
 - Historia
@@ -28,7 +29,7 @@ Bloque 1: ¿Qué es Design Thinking?
 
 - Metodología y etapas
 
-Bloque 2: Design Thinking en el entorno educativo
+**Bloque 2: Design Thinking en el entorno educativo**
 
 - Aplicaciones
 
@@ -36,9 +37,9 @@ Bloque 2: Design Thinking en el entorno educativo
 
 - Beneficios para el docente y el alumnado
 
-Bloque 3: “Participa, diseña, y aprende”: Metodología colaborativa para el aula
+**Bloque 3: “Participa, diseña, y aprende”: Metodología colaborativa para el aula**
 
-- Que necesitamos para aplicarla
+- Qué necesitamos para aplicarla
 
 - Principios
 
@@ -48,23 +49,19 @@ Bloque 3: “Participa, diseña, y aprende”: Metodología colaborativa para el
 
 - Casos de éxito
 
-Bloque 4: Metodología paso a paso: Investigación y Definición
+**Bloque 4: Metodología paso a paso: Investigación y Definición**
 
-- EMPATÍA Y DESAFÍO
-
+- Empatía y desafío
 
 - Investigación: Herramientas y experiencias según aplicación
-
 
 - Definición: Herramientas y experiencias según aplicación
 
 
-Bloque 5: Metodología paso a paso: Ideación y prototipado/testeo
+**Bloque 5: Metodología paso a paso: Ideación y prototipado/testeo**
 
 - COCREAR, VISUALIZAR E ITERAR
 
-
 - Ideación: Herramientas y experiencias según su aplicación
-
 
 - Prototipado y testeo: Herramientas y experiencias según aplicación
