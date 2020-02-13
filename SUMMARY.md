@@ -16,6 +16,12 @@
 * [Historia](bloque_1_que_es_design_thinking/historia.md)
 * [Principios](bloque_1_que_es_design_thinking/principios.md)
 * [Metodología y etapas](bloque_1_que_es_design_thinking/metodologia.md)
+  * [1-Empatizar \(Conocer, investigar\)](bloque_1_que_es_design_thinking/metodologia/1-empatizar-conocer-investigar.md)
+  * [2-Definir \(de la investigación a los insights o descubrimientos\)](bloque_1_que_es_design_thinking/metodologia/2-definir-de-la-investigacion-a-los-insights-o-descubrimientos.md)
+  * [3-Idear: del reto a la idea](bloque_1_que_es_design_thinking/metodologia/3-idear-del-reto-a-la-idea.md)
+  * [4-Prototipar](bloque_1_que_es_design_thinking/metodologia/4-prototipar.md)
+  * [5-Testar \(probar para mejorar\)](bloque_1_que_es_design_thinking/metodologia/5-testar-probar-para-mejorar.md)
+* [Presentación: Principios y metodología.](bloque_1_que_es_design_thinking/presentacion-principios-y-metodologia.md)
 
 ## Módulo 2: Design thinking en el entorno educativo
 

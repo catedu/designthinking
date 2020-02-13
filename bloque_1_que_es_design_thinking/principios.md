@@ -1,12 +1,12 @@
 ## Principios {#principios}
 
-![](images/image25.jpg)
+![](/images/image25.jpg)
 
 Asegurar un ambiente propicio para hacer viables los principios del Design Thinking es tan importante o más que conocer la metodología y las herramientas.
 
 Los principios en Design Thinking son:
 
-1- CENTRADO EN LAS PERSONAS
+### 1- CENTRADO EN LAS PERSONAS
 
 La metodología de design thinking se basa en la observación de las personas, el conocimiento de sus necesidades y problemas.
 
@@ -16,59 +16,59 @@ Profundizamos en las necesidades de las personas, tratando de conectar con sus e
 
 De las necesidades de las personas surgen las oportunidades, y de las oportunidades surgen los retos y las ideas de mejora.
 
-![](images/image40.jpg)
+![](/images/image40.jpg)
 
 La tecnología y la ciencia, están al servicio de las personas, son un medio para resolver las necesidades detectadas, para mejorar sus vidas, no son un fin en sí mismo.
 
-![](images/image22.jpg)
+![](/images/image22.jpg)
 
-![](images/image2.png)
+![](/images/image2.png)
 
 Video Tim Brown 2
-
-Video:[ https://www.youtube.com/watch?v=7aAUxx_UvZM](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D7aAUxx_UvZM&sa=D&ust=1580985740393000)
 
 ¿Cómo empieza la innovación?
 
 Tim Brown y Don Norman
 
-2- EQUIPOS MULTIDISCIPLINARES
+{% youtube %}https://www.youtube.com/watch?v=7aAUxx_UvZM {% endyoutube %}
 
-Design thinking se aplica en la resolución de problemas complejos y para eso es necesario combinar diferentes perspectivas, conocimiento y puntos de vista.
+### 2- EQUIPOS MULTIDISCIPLINARES
 
-Un equipo ideal estaría compuesto por personas diversas que trabajan colaborativamente.
+Design thinking se aplica en la resolución de problemas complejos y para eso es necesario **combinar diferentes perspectivas, conocimiento y puntos de vista**.
 
-La jerarquía no es amiga del design thinking. Cuando un individuo entra en un equipo es como los demás.
+**Un equipo ideal estaría compuesto por personas diversas que trabajan colaborativamente.**
 
-Los procesos de Design Thinking también están ligados a procesos de participación, sobretodo en aquellos proyectos o retos de marcado tinte social. No obstante, en general, es aconsejable que se interactúe con las personas usuarias, se las haga partícipe del proceso, se las integre en el mismo, al menos en las fases de investigación, de creación y de testeo.
+**La jerarquía no es amiga del design thinking**. Cuando un individuo entra en un equipo es como los demás.
 
-En este punto es esencial tratar la figura del dinamizador o facilitador, aquella persona especialista en diseño, que ayuda a dinamizar el grupo y que en los momentos de confusión o bloqueo, puede proponer alternativas, puede ayudar a la visualización de ideas o soluciones, o a centrar al equipo en la toma de decisiones para que pueda ir avanzando.
+**Los procesos de Design Thinking también están ligados a procesos de participación**, sobretodo en aquellos proyectos o retos de marcado tinte social. No obstante, en general, es aconsejable que se interactúe con las personas usuarias, se las haga partícipe del proceso, se las integre en el mismo, al menos en las fases de investigación, de creación y de testeo.
 
-![](images/image26.jpg)
+En este punto es esencial tratar **la figura del dinamizador o facilitador**, aquella persona especialista en diseño, que ayuda a dinamizar el grupo y que en los momentos de confusión o bloqueo, puede proponer alternativas, puede ayudar a la visualización de ideas o soluciones, o a centrar al equipo en la toma de decisiones para que pueda ir avanzando.
 
-3- CREATIVIDAD Y VISUALIZACIÓN
+![](/images/image26.jpg)
 
-La creatividad es clave en los procesos de design thinking. Para que la creatividad se de en un equipo es necesario potenciar la confianza creativa de las personas que lo componen.
+### 3- CREATIVIDAD Y VISUALIZACIÓN
+
+La creatividad es clave en los procesos de design thinking. Para que la creatividad se de en un equipo es necesario potenciar la **confianza creativa** de las personas que lo componen.
 
 El individuo que participa en un proceso de Design Thinking debe sentirse libre para aportar su punto de vista, para probar soluciones…
 
-Las ideas se visualizan, se expresan con dibujos, esquemas, comics, y todo tipo de representaciones para hacerlas comprensibles, para que otros construyan sobre ellas.
+**Las ideas se visualizan**, se expresan con dibujos, esquemas, comics, y todo tipo de representaciones para hacerlas comprensibles, para que otros construyan sobre ellas.
 
 Las ideas no son de nadie. Fluyen, se entrelazan, se hibridan....
 
-![](images/image30.jpg)
+![](/images/image30.jpg)
 
 Ejemplo de cómo expresar con un esquema muy sencillo la siguiente observación: “La perspectiva de los adultos, su mirada, no incluye, en ocasiones, la de la infancia y viceversa”. La visualización de esta observación surgió en un proyecto para la mejora de los servicios públicos con el objetivo de poner en el centro a la ciudadanía.
 
-![](images/image2.png)
+![](/images/image2.png)
 
-Video Tim Brown 3
+[Video Tim Brown 3](https://www.google.com/url?q=https://www.ted.com/talks/tim_brown_on_creativity_and_play?language%3Des%23t-13820&sa=D&ust=1580985740396000)
 
-[https://www.ted.com/talks/tim_brown_on_creativity_and_play?language=es#t-13820](https://www.google.com/url?q=https://www.ted.com/talks/tim_brown_on_creativity_and_play?language%3Des%23t-13820&sa=D&ust=1580985740396000)
+<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/lang/es/tim_brown_tales_of_creativity_and_play" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
 
 En la Conferencia Serious Play de 2008, el diseñador Tim Brown habla de la poderosa relación que existe entre el pensamiento creativo y el juego.
 
-4- HACER, ACCIÓN, PROTOTIPAR
+### 4- HACER, ACCIÓN, PROTOTIPAR
 
 En los procesos de Design Thinking se evita hablar demasiado, debatir sin más.
 
@@ -78,15 +78,15 @@ No hay que confundir el concepto de prototipo para Design Thinking, con el conce
 
 Durante el proceso de Design Thinking, se realizan prototipos, modelos sencillos, que se van mejorando y completando. Sirven para transmitir y probar soluciones con las personas usuarias y para que estas nos aporten su opinión y nos señalen áreas de mejora.
 
-Estos prototipos pueden ser desde un video, una representación teatral, un escenario construido con recortables, con personajes de papel ó unos cartones formando un espacio, por ejemplo. Cualquier material que esté a nuestra disposición puede servirnos para prototipar soluciones: plastilina, piezas de construcción, cartón, material reciclado…
+Estos prototipos pueden ser desde un vídeo, una representación teatral, un escenario construido con recortables, con personajes de papel o unos cartones formando un espacio, por ejemplo. Cualquier material que esté a nuestra disposición puede servirnos para prototipar soluciones: plastilina, piezas de construcción, cartón, material reciclado…
 
-![](images/image46.jpg)
+![](/images/image46.jpg)
 
 Prototipo construído con piezas recicladas, plastilina y piezas de construcción por un equipo de alumnos de 2º ESO para poder testear con alumnado y profesorado la idea de un club de lectura.
 
-“Doing, not talking!” Global GovJam
+_“Doing, not talking!” Global GovJam_
 
-5- ITERAR
+### 5- ITERAR
 
 El proceso no es lineal. Una de las características del trabajo con esta metodología es que el equipo necesita volver atrás para después seguir avanzando.
 
