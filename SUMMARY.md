@@ -25,10 +25,9 @@
 
 ## Módulo 2: Design thinking en el entorno educativo
 
-* [Bloque 2: Design thinking en el entorno educativo](bloque_2_design_thinking_en_el_entorno_educativo/README.md)
-  * [Introducción: ](bloque_2_design_thinking_en_el_entorno_educativo/introduccion.md)
-  * [Aplicaciones: ](bloque_2_design_thinking_en_el_entorno_educativo/aplicaciones.md)
+* [Introducción: ](bloque_2_design_thinking_en_el_entorno_educativo/introduccion.md)
+* [Aplicaciones: ](bloque_2_design_thinking_en_el_entorno_educativo/aplicaciones.md)
     * [Design Thinking en el aula: ](bloque_2_design_thinking_en_el_entorno_educativo/a-_design_thinking_en_el_aula.md)
     * [Docente como diseñador: ](bloque_2_design_thinking_en_el_entorno_educativo/b-_docente_como_disenador.md)
-  * [Beneficios de la aplicación de Design Thinking en el aula](bloque_2_design_thinking_en_el_entorno_educativo/beneficios_de_la_aplicacion_de_design_thinking_en_.md)
+* [Beneficios de la aplicación de Design Thinking en el aula](bloque_2_design_thinking_en_el_entorno_educativo/beneficios_de_la_aplicacion_de_design_thinking_en_.md)
 

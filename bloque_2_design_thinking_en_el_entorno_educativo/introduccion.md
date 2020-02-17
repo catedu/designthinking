@@ -1,3 +1,9 @@
+# Módulo 2: Design thinking en el entorno educativo {#bloque-2-design-thinking-en-el-entorno-educativo}
+
+![](/images/image11.jpg)
+
+En este bloque vamos a acercar la metodología al contexto educativo, vamos a conocer las posibles aplicaciones que puede tener en este entorno, además de experiencias en centros educativos diversos. Finalmente podremos reflexionar sobre cuáles pueden ser los beneficios de su aplicación.
+
 ## Introducción: {#introducci-n}
 
 Reflexionemos sobre cuáles pueden ser las aplicaciones de DT en el aula: primero como una herramienta para el aprendizaje del alumnado y segundo como una herramienta para diseñar los procesos y la propia experiencia de aprendizaje por parte del docente.
