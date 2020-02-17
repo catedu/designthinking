@@ -31,9 +31,9 @@ Introducción
 
 **Bloque 2: Design Thinking en el entorno educativo**
 
-- Aplicaciones
+- Introducción.
 
-- Experiencias
+- Aplicaciones y experiencias
 
 - Beneficios para el docente y el alumnado
 

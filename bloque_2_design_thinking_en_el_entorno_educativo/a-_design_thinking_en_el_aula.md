@@ -1,8 +1,8 @@
-## A- Design Thinking en el aula: {#a-design-thinking-en-el-aula}
+## Design Thinking en el aula: {#a-design-thinking-en-el-aula}
 
-*   Como metodología para el aprendizaje por proyectos: Pueden ser proyectos técnicos, de investigación, de resolución de problemas o de búsqueda de oportunidades, de mejora del ámbito educativo o de participación, o proyectos para aprender habilidades y desarrollar competencias… cualquier proyecto puede nutrirse de la metodología o alguna parte de ella y de alguna de las herramientas que se utilizan en Design Thinking.
+- **Como metodología para el aprendizaje basado en proyectos**: Pueden ser proyectos técnicos, de investigación, de resolución de problemas o de búsqueda de oportunidades, de mejora del ámbito educativo o de participación, o proyectos para aprender habilidades y desarrollar competencias… cualquier proyecto puede nutrirse de la metodología o alguna parte de ella y de alguna de las herramientas que se utilizan en Design Thinking.
 
-![](images/image4.jpg)
+![](/images/image4.jpg)
 
 Algunas ideas sobre Design Thinking y aprendizaje por proyectos:
 
@@ -18,9 +18,9 @@ Utilizando la metodología podemos acercarnos al espíritu STEAM (Acrónimo de S
 
 Integrar esta mentalidad en el centro puede posibilitar la colaboración interdepartamental y los proyectos globales. Puedes facilitar, al utilizar Design Thinking como lenguaje común, que los profesores de distintas asignaturas o disciplinas puedan trabajar en un mismo proyecto y puedan coordinarse internamente de forma que sea más factible el intercambio de conocimiento.
 
-*   Metodología para el trabajo creativo en equipo: Es una metodología que se basa en aprender haciendo. Llevar esta metodología al trabajo en equipo permite desarrollar habilidades comunicativas, de liderazgo, etc., que favorecen la capacitación para trabajar en equipo ahora y en el futuro.
+*  ** Metodología para el trabajo creativo en equipo**: Es una metodología que se basa en aprender haciendo. Llevar esta metodología al trabajo en equipo permite desarrollar habilidades comunicativas, de liderazgo, etc., que favorecen la capacitación para trabajar en equipo ahora y en el futuro.
 
-![](images/image45.jpg)
+![](/images/image45.jpg)
 
 Utilizarla como base en el día a día del trabajo práctico en el aula por parte del alumnado, puede servir como un gran entrenamiento para el trabajo creativo en equipo en el futuro entorno profesional.
 
@@ -28,11 +28,11 @@ No tiene sentido trabajar con la metodología individualmente. Su planteamiento 
 
 El docente asume el rol de dinamizador, que sugiere, ayuda y colabora y está dispuesto a aprender en cada paso del proceso.
 
-*   Metodología que empuja a conocer lo que hay fuera del aula.
+*  ** Metodología que empuja a conocer lo que hay fuera del aula.**
 
 Design Thinking se basa en la observación. La metodología potencia la curiosidad y facilita que el alumnado se interese por lo que sucede fuera del centro, interactúe con personas diferentes, con otros puntos de vista, en otros contextos.
 
-![](images/image41.jpg)
+![](/images/image41.jpg)
 
 Es una metodología que se basa en el conocimiento en profundidad de los temas o problemas a resolver, pero no desde un punto de vista teórico, sino empírico. Para conseguir ese conocimiento tenemos que salir de nuestro “mundo”, de nuestra cotidianidad.
 
@@ -40,7 +40,7 @@ Al plantear los proyectos, surgirán, aún sin buscarlos a priori, oportunidades
 
 La apertura del alumnado al exterior se puede favorecer al plantear temas de trabajo o retos relacionados no solo con el entorno del centro, en cuanto a espacio físico; sino también con toda la comunidad educativa, con el barrio, la ciudad, el entorno empresarial, etc.
 
-*   Metodología para la participación:
+*   **Metodología para la participación**:
 
 Design Thinking necesita la proactividad de las personas para llegar a ideas de mejora.
 
@@ -52,29 +52,25 @@ El alumnado que ha vivido este proceso y ha trabajado en equipo con metodología
 
 Es por eso que el alumnado que ha vivido repetidamente este tipo de experiencias en entornos en el que se le ha alentado a plantear sus propios temas de interés o sus propios retos de mejora, es o se convertirá en la ciudadanía que va a participar de la toma de decisiones en su barrio o comunidad, que va a poder aportar alternativas, y no solo críticas, en el entorno donde se encuentre.
 
-![](images/image7.jpg)
+![](/images/image7.jpg)
 
 Estoy dibujando la idea del ciudadano co-creador de soluciones urbanísticas, por ejemplo, o de políticas públicas en el ámbito de la participación ciudadana, un entorno para el aprendizaje y la aportación, que como el educativo, se encuentra en constante evolución.
 
 Considero que experimentar con esta metodología potencia la cultura de participación en las personas, y ayuda a que pasen de ser individuos pasivos a actores proactivos. De estar desligados de su entorno educativo y social a implicarse en la búsqueda de soluciones y nuevas ideas.
 
-Algunas ideas sobre Design Thinking y participación:
+**Algunas ideas sobre Design Thinking y participación:**
 
-Su metodología potencia que el alumnado quiera proponer mejoras
+- Su metodología potencia que el alumnado quiera proponer mejoras
+- Permite que el alumnado pueda crear y prototipar soluciones
+- Plantea un punto de vista activo como individuo
+- Lleva a la acción
+- Coloca al alumnado en el rol de actor, de emisor, no solo en el de receptor.
 
-Permite que el alumnado pueda crear y prototipar soluciones
+### Tres experiencias de la aplicación de la metodología en el aula
 
-Plantea un punto de vista activo como individuo
+#### Design In Schools
 
-Lleva a la acción
-
-Coloca al alumnado en el rol de actor, de emisor, no solo en el de receptor.
-
-Tres experiencias de la aplicación de la metodología en el aula
-
-Design In Schools
-
-Macquarie Primary School, Australia, 2015
+**Macquarie Primary School, Australia, 2015**
 
 La escuela se puso en contacto con DMA (Design Managers Australia) para abordar un problema: un “peligroso” aparcamiento escolar.
 
@@ -82,21 +78,19 @@ Se formó un equipo de diseño de servicios: 18 jóvenes de 11 años dinamizados
 
 Objetivo: diseñar una solución a un complejo problema comunitario
 
-[https://www.service-design-network.org/headlines/dma-design-in-schools-australia](https://www.google.com/url?q=https://www.service-design-network.org/headlines/dma-design-in-schools-australia&sa=D&ust=1580985740417000)
+En [este enlace a la página web de DMA](/shorturl.at/joLWY) encontrarás la crónica del proyecto, que fue galardonado con el Service Design Award 2017 por Cambio sistémico en educación.
 
-Enlace a la página web de DMA dónde encontrarás la crónica del proyecto, que fue galardonado con el Service Design Award 2017 por Cambio sistémico en educación.
-
-![](images/image2.png)
+![](/images/image2.png)
 
 Video DMA
 
-[https://www.youtube.com/watch?v=CCAPWj6xJXU](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DCCAPWj6xJXU&sa=D&ust=1580985740417000)
+{% youtube %}https://www.youtube.com/watch?v=CCAPWj6xJXU {% endyoutube %}
 
 Vídeo en el que se muestra como fue el proyecto en Macquarie Primary School (video en Inglés)
 
-Proyecto “Design for Change”
+#### Proyecto “Design for Change”
 
-Colegio Montserrat. Barcelona, 2016
+**Colegio Montserrat. Barcelona, 2016**
 
 Proyecto que se llevó a cabo con alumnos de primaria.
 
@@ -104,24 +98,24 @@ Objetivo: Mejorar el centro educativo.
 
 Se propuso a los alumnos y alumnas que pensaran en ideas de mejora para su centro, realizar prototipos de las mismas y las implementaran.
 
-![](images/image2.png)
+![](/images/image2.png)
 
 Video experiencia Colegio Montserrat
 
-[https://www.youtube.com/watch?v=lb3iX9wd6t4](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dlb3iX9wd6t4&sa=D&ust=1580985740418000)
+{% youtube %}https://www.youtube.com/watch?v=lb3iX9wd6t4 {% endyoutube %}
 
-Proyecto mochilas idénticas
+#### Proyecto mochilas idénticas
 
-Forbes Primary School. Australia, 2017
+**Forbes Primary School. Australia, 2017**
 
 Objetivo: Que los alumnos solucionen un problema con las mochilas
 
 Se propone a los alumnos que solucionen un problema utilizando la metodología Design Thinking: buscan soluciones, seleccionan una de ellas, la prototipan, la construyen en 3D e implementan la solución.
 
-![](images/image2.png)
+![](/images/image2.png)
 
 Video experiencia Forbes Primary School.
 
-[https://www.youtube.com/watch?time_continue=227&amp;v=Q6S0syM0OFc](https://www.google.com/url?q=https://www.youtube.com/watch?time_continue%3D227%26v%3DQ6S0syM0OFc&sa=D&ust=1580985740419000)
+{% youtube %}https://youtu.be/Q6S0syM0OFc {% endyoutube %}
 
-En el video se pueden ver las etapas del proceso.
+En el vídeo se pueden ver las etapas del proceso.
