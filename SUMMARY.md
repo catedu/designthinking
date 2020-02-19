@@ -32,5 +32,14 @@
   * [Presentación: Aplicaciones y experiencias](bloque_2_design_thinking_en_el_entorno_educativo/presentacion-aplicaciones-y-experiencias.md)
 * [Beneficios de la aplicación de Design Thinking en el aula](bloque_2_design_thinking_en_el_entorno_educativo/beneficios_de_la_aplicacion_de_design_thinking_en_.md)
 
+## Módulo 3: “Participa, diseña, y aprende”: Metodología colaborativa en el aula
+
+* [Introducción](bloque3/introduccion3.md)
+* [Recursos](bloque3/recursos3.md)
+* [Principios: decálogo](bloque3/principios3.md)
+* [Metodología](bloque3/metodologia3.md)
+* [Niveles de aplicación](bloque3/niveles_de_aplicacion3.md)
+* [Resultados. Casos de éxito](bloque3/resultados_casos_de_exito3.md)
+
 
 
