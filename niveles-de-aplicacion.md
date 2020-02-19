@@ -98,15 +98,15 @@ A continuación se desarrolla un poco más, se hacen dibujos un poco más detall
 
 ![](images2/image26.jpg)
 
-4- PROTOTIPAR Y TESTAR (convergente)![](images/image25.jpg)
+### 4- PROTOTIPAR Y TESTAR (convergente)![](images/image25.jpg)
 
-Paso 6: Desarrollad una idea: dadle forma, pensad en los materiales… Podéis hacer un prototipo que os ayude a probar vuestra idea.
+**Paso 6**: Desarrollad una idea: dadle forma, pensad en los materiales… Podéis hacer un prototipo que os ayude a probar vuestra idea.
 
 Durante este paso definimos la forma, el tamaño, las funciones, componentes,el proceso básico (si se trata de un servicio)
 
-![](images/image51.jpg)![](images/image46.jpg)
+![](images2/image51.jpg)![](images2/image46.jpg)
 
-![](images/image39.jpg)
+![](images2/image39.jpg)
 
 Paso 7: Buscad la opinión de vuestros usuarios. Hablad con otras personas y preguntadles qué les parece el concepto.
 
