@@ -39,5 +39,8 @@
 * [Principios: decálogo](principios-decalogo.md)
 * [Metodología](metodologia.md)
 * [Niveles de aplicación](niveles-de-aplicacion.md)
+  * [Taller "Crea con Tangram"](niveles-de-aplicacion/taller-crea-con-tangram.md)
+  * [Taller rediseño de mando de tv](niveles-de-aplicacion/taller-rediseno-de-mando-de-tv.md)
+  * [Proyecto de Design Thinking y participación](niveles-de-aplicacion/proyecto-de-design-thinking-y-participacion.md)
 * [Resultados. Casos de éxito](resultados-casos-de-exito.md)
 
