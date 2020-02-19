@@ -35,4 +35,8 @@
 ## Módulo 3: “Participa, diseña, y aprende”: Metodología colaborativa en el aula
 
 * [Introducción](introduccion.md)
+* [Principios: decálogo](principios-decalogo.md)
+* [Metodología](metodologia.md)
+* [Niveles de aplicación](niveles-de-aplicacion.md)
+* [Resultados. Casos de éxito](resultados-casos-de-exito.md)
 
