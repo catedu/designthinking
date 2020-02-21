@@ -14,6 +14,7 @@
 
 * [Definición](bloque_1_que_es_design_thinking/definicion.md)
 * [Historia](bloque_1_que_es_design_thinking/historia.md)
+* [Presentación: Definición e historia.](bloque_1_que_es_design_thinking/presentacion-definicion-e-historia.md)
 * [Principios](bloque_1_que_es_design_thinking/principios.md)
 * [Metodología y etapas](bloque_1_que_es_design_thinking/metodologia.md)
   * [1-Empatizar \(Conocer, investigar\)](bloque_1_que_es_design_thinking/metodologia/1-empatizar-conocer-investigar.md)
@@ -31,6 +32,7 @@
   * [Docente como diseñador: ](bloque_2_design_thinking_en_el_entorno_educativo/b-_docente_como_disenador.md)
   * [Presentación: Aplicaciones y experiencias](bloque_2_design_thinking_en_el_entorno_educativo/presentacion-aplicaciones-y-experiencias.md)
 * [Beneficios de la aplicación de Design Thinking en el aula](bloque_2_design_thinking_en_el_entorno_educativo/beneficios_de_la_aplicacion_de_design_thinking_en_.md)
+  * [Presentación: Beneficios para el docente y el alumnado](bloque_2_design_thinking_en_el_entorno_educativo/beneficios_de_la_aplicacion_de_design_thinking_en_/presentacion-beneficios-para-el-docente-y-el-alumnado.md)
 
 ## Módulo 3: “Participa, diseña, y aprende”: Metodología colaborativa en el aula
 

@@ -65,9 +65,7 @@ Desde la publicación de Change for Design hasta hoy en día, la metodología se
 
 Trabajo en equipo/no jerarquías/ necesidades usuario/diseñador como facilitador/+ que productos/equipos de trabajo multidisciplinares/resolver problemas de la humanidad/metodología de diseño/ investigación-creatividad y planificación/la necesidad de buscar/diseño centrado en las personas/verdaderos equipos multidisciplinares/problemas complejos/Design Thinking
 
-![](/images/image8.png) Ver presentación: Definición e historia
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRcZy49Yq38GjFYYlni_GxQvNIDrxbeXQZAP3wsqIRDereMQfFS9OabH3prBygAtPa6LxrmT72SOF5K/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 [1]: David Kelley: From Design to Design Thinking at Stanford and IDEO. María Camacho. Swinburne University of Technology.
 
