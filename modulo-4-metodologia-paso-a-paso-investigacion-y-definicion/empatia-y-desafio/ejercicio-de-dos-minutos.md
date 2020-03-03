@@ -24,7 +24,7 @@ Se crea una atmósfera de confianza que facilita el trabajo posterior en equipo.
 
 Fotografía: Dinámica reto del Malvavisco con alumnos de desarrollo de capacidades para reflexionar sobre el trabajo en equipo antes de abordar proyecto de Design Thinking
 
-![](/assets/bloque4_retospaguetti.jpg)
+![](/assets/retospaguetti.jpg)
 
 Podéis plantear una dinámica basada en el desafío de diseño llamado Torre de Spaguettis o el reto del Malvavisco que sugirió Peter Skillman en una charla TED. Esta actividad puede ayudar a que las personas empiecen a trabajar en equipo alineados con los principios que he sugerido en el bloque 3.
 Pasos para llevarla a cabo:
