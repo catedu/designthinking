@@ -48,3 +48,11 @@
 * [Resultados. Casos de éxito](resultados-casos-de-exito.md)
 * [Presentación: Aplicación](resultados-casos-de-exito/presentacon-aplicacion.md)
 
+## Módulo 4: Metodología paso a paso: Investigación y Definición
+
+* Empatía y desafío
+* Investigación: Herramientas y experiencias según aplicación
+* Definición: Herramientas y experiencias según aplicación
+
+
+
