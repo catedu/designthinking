@@ -48,7 +48,7 @@
 * [Resultados. Casos de éxito](resultados-casos-de-exito.md)
 * [Presentación: Aplicación](resultados-casos-de-exito/presentacon-aplicacion.md)
 
-## Módulo 4: Metodología paso a paso: Investigación y Definición
+<!--## Módulo 4: Metodología paso a paso: Investigación y Definición
 
 * [Empatía y desafío](modulo-4-metodologia-paso-a-paso-investigacion-y-definicion/empatia-y-desafio.md)
   * [Antes de comenzar el proceso](modulo-4-metodologia-paso-a-paso-investigacion-y-definicion/empatia-y-desafio/ejercicio-de-dos-minutos.md)
