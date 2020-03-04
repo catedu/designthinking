@@ -24,8 +24,7 @@ Se crea una atmósfera de confianza que facilita el trabajo posterior en equipo.
 
 Fotografía: Dinámica reto del Malvavisco con alumnos de desarrollo de capacidades para reflexionar sobre el trabajo en equipo antes de abordar proyecto de Design Thinking
 
-![](assets/retospaguetti.jpg)
-
+![](/assets/bloque4_retospaguetti-min.jpg)
 Podéis plantear una dinámica basada en el desafío de diseño llamado Torre de Spaguettis o el reto del Malvavisco que sugirió Peter Skillman en una charla TED. Esta actividad puede ayudar a que las personas empiecen a trabajar en equipo alineados con los principios que he sugerido en el bloque 3.
 Pasos para llevarla a cabo:
 Reto: Construir una torre de espaguetis lo más alta posible que aguante una nube en la parte superior
@@ -41,25 +40,32 @@ Tiempo para realizar la actividad: 20 minutos.
 Preguntas evaluación:
 ¿Habéis trabajado en equipo?, ¿Os habéis comunicado?, ¿Cuántas ideas diferentes habéis tenido?, ¿Las habéis probado?, ¿Se han criticado o desechado ideas sin probarlas?
 
+![](/images/image2.png)
+
+### VIDEO RECURSO DINÁMICA
+
+<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/lang/es/tom_wujec_build_a_tower_build_a_team" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
 
 
-VIDEO RECURSO DINÁMICA
-https://www.ted.com/talks/tom_wujec_build_a_tower_build_a_team/transcript?language=es
-El Reto del Malvavisco es una actividad para trabajar en equipo. 
+
+[El Reto del Malvavisco](https://www.ted.com/talks/tom_wujec_build_a_tower_build_a_team/transcript?language=es) es una actividad para trabajar en equipo. 
 Puede ser una dinámica previa a cualquier actividad de Design Thinking con la que trabajar habilidades y también los principios que propongo. Sirve para detectar áreas de mejora en el equipo y reflexionar sobre cómo mejorar o corregir actitudes que frenan la creatividad. Además, demuestra que crear prototipos e iterar son procesos imprescindibles para resolver un problema.
 
+![](/images/image2.png)
+### VIDEO RECURSO DINÁMICA
 
-VIDEO RECURSO DINÁMICA
-https://www.youtube.com/watch?v=Q7e9C4vTWrQ
+{% youtube %}https://www.youtube.com/watch?v=Q7e9C4vTWrQ {% endyoutube %}
+
 Ejemplo de la dinámica del Malvavisco en una actividad del Desafío Emprende de la Caixa.
 
-Crear:
+**Crear:**
+
 Os propongo varias actividades para fomentar el pensamiento creativo del alumnado antes de comenzar:
-1- Construir juntos: imaginar un relato o un comic entre todos los miembros del equipo
+
+1. Construir juntos: imaginar un relato o un cómic entre todos los miembros del equipo.
 Cada persona dice una frase o la escribe o dibuja una viñeta y pasa la hoja a la persona que está a su lado, que continúa la historia, hasta que se finaliza. También lo podemos hacer mediante un collage o un dibujo.
 
-2- Libro para ejercitar el ingenio: “Cómo tener ideas geniales” de Editorial Blume.
-Me lo regalaron en un centro educativo hace unos años y lo devoré unas vacaciones.
+2. Libro para ejercitar el ingenio: “Cómo tener ideas geniales” de Editorial Blume. Me lo regalaron en un centro educativo hace unos años y lo devoré unas vacaciones.
 Propone infinidad de actividades, retos y ejercicios para realizar por ti mismo o con tu alumnado. 
 Recuerda que a los adultos también nos viene bien entrenar el pensamiento creativo.
 En este libro encontrarás actividades sencillas de hacer para “acostumbrar” a tu alumnado a este tipo de desafíos.
