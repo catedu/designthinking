@@ -48,7 +48,7 @@
 * [Resultados. Casos de éxito](resultados-casos-de-exito.md)
 * [Presentación: Aplicación](resultados-casos-de-exito/presentacon-aplicacion.md)
 
-<!--
+
 ## Módulo 4: Metodología paso a paso: Investigar y Enfocar
 
 
@@ -57,4 +57,3 @@
 * [Investigación: Herramientas y experiencias según aplicación](modulo-4-metodologia-paso-a-paso-investigacion-y-definicion/investigacion-herramientas-y-experiencias-segun-aplicacion.md)
 * Definición: Herramientas y experiencias según aplicación
 
--->
