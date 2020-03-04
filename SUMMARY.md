@@ -53,5 +53,6 @@
 * [Empatía y desafío](modulo-4-metodologia-paso-a-paso-investigacion-y-definicion/empatia-y-desafio.md)
   * [Antes de comenzar el proceso](modulo-4-metodologia-paso-a-paso-investigacion-y-definicion/empatia-y-desafio/ejercicio-de-dos-minutos.md)
 * [Investigación: Herramientas y experiencias según aplicación](modulo-4-metodologia-paso-a-paso-investigacion-y-definicion/investigacion-herramientas-y-experiencias-segun-aplicacion.md)
+  * [Fase 1: Presentación.](modulo-4-metodologia-paso-a-paso-investigacion-y-definicion/investigacion-herramientas-y-experiencias-segun-aplicacion/fase-1-presentacion.md)
 * [Definición: Herramientas y experiencias según aplicación](modulo-4-metodologia-paso-a-paso-investigacion-y-definicion/definicion-herramientas-y-experiencias-segun-aplicacion.md)
 
