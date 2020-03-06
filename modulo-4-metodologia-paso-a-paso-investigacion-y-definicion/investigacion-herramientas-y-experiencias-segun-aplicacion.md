@@ -144,3 +144,6 @@ También puede ser útil recabar información sobre las personas usuarias por me
 
 Shadowing (o ser la sombra de alguien), diario de aprendizaje (diarios con fotos de un día de una persona), observación en contexto, Mystery Shopping (o cliente misterioso) y la dinámica de grupo son algunas de las herramientas o técnicas que se utilizan para obtener o recabar información en Design Thinking.
 
+---
+
+ANEXO: [Herramientas de la fase "Investigar" en PDF.](https://drive.google.com/file/d/1XC9Y5Q1zpNq8FFPUXw-xKbzKsuXvU5MF/view?usp=sharing)

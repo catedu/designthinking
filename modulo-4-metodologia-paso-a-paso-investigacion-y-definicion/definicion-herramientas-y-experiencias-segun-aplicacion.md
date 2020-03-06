@@ -224,4 +224,8 @@ Es interesante que el alumnado y el profesorado pueda construir sus propias herr
 
 Lo que aquí he recogido son herramientas que se utilizan en el entorno profesional, pero que pueden traducirse fácilmente en el aula.
 
-Aunque no se completen de forma ortodoxa por el alumnado, su simple utilización consigue que éste experimente que antes de generar ideas hay mucho que hacer; que para evolucionar, mejorar o abordar cualquier desafío es preciso analizar, sintetizar, comparar, tomar decisiones, etc. Y en equipo!
+Aunque no se completen de forma ortodoxa por el alumnado, su simple utilización consigue que éste experimente que antes de generar ideas hay mucho que hacer; que para evolucionar, mejorar o abordar cualquier desafío es preciso analizar, sintetizar, comparar, tomar decisiones, etc. Y en equipo!.
+
+---
+
+ANEXO: [Herramientas de la fase "Enfocar" en PDF.](https://drive.google.com/file/d/11p0tZgfOB16WC62rPWsmZux_21OlgEOI/view?usp=sharing)
