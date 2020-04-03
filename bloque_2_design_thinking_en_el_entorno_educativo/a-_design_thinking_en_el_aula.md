@@ -78,7 +78,7 @@ Se formó un equipo de diseño de servicios: 18 jóvenes de 11 años dinamizados
 
 Objetivo: diseñar una solución a un complejo problema comunitario
 
-En [este enlace a la página web de DMA](/shorturl.at/joLWY) encontrarás la crónica del proyecto, que fue galardonado con el Service Design Award 2017 por Cambio sistémico en educación.
+En [este enlace a la página web de DMA](https://designmanagers.com.au/?tag=macquarie-primary-school) encontrarás la crónica del proyecto, que fue galardonado con el Service Design Award 2017 por Cambio sistémico en educación.
 
 ![](/images/image2.png)
 
