@@ -74,9 +74,9 @@
 
 ---
 
-* Conclusiones y cierre
+* [Conclusiones y cierre](conclusiones-y-cierre.md)
 
 ---
 
-* Créditos
+* [Créditos](creditos.md)
 
