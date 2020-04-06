@@ -62,7 +62,7 @@
 * [Introducción](modulo-5-metodologia-paso-a-paso-idear-prototipar-y-testar/introduccion.md)
 * [Herramientas Fase 3: Idear](modulo-5-metodologia-paso-a-paso-idear-prototipar-y-testar/herramientas-fase-3-idear.md)
   * [Técnicas de creatividad](modulo-5-metodologia-paso-a-paso-idear-prototipar-y-testar/herramientas-fase-3-idear/tecnicas-de-creatividad.md)
-  * Selección de ideas
+  * [Selección de ideas](modulo-5-metodologia-paso-a-paso-idear-prototipar-y-testar/herramientas-fase-3-idear/seleccion-de-ideas.md)
   * [Presentación Herramientas fase 3](modulo-5-metodologia-paso-a-paso-idear-prototipar-y-testar/herramientas-fase-3-idear/presentacion-herramientas-fase-3.md)
 * Herramientas Fase 4: Prototipar y Testar
   * Prototipos
