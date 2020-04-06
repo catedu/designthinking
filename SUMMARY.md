@@ -63,12 +63,14 @@
 * [Herramientas Fase 3: Idear](modulo-5-metodologia-paso-a-paso-idear-prototipar-y-testar/herramientas-fase-3-idear.md)
   * [Técnicas de creatividad](modulo-5-metodologia-paso-a-paso-idear-prototipar-y-testar/herramientas-fase-3-idear/tecnicas-de-creatividad.md)
   * [Selección de ideas](modulo-5-metodologia-paso-a-paso-idear-prototipar-y-testar/herramientas-fase-3-idear/seleccion-de-ideas.md)
+  * [De la idea al concepto](modulo-5-metodologia-paso-a-paso-idear-prototipar-y-testar/herramientas-fase-3-idear/de-la-idea-al-concepto.md)
   * [Presentación Herramientas fase 3](modulo-5-metodologia-paso-a-paso-idear-prototipar-y-testar/herramientas-fase-3-idear/presentacion-herramientas-fase-3.md)
-* Herramientas Fase 4: Prototipar y Testar
-  * Prototipos
+* [Herramientas Fase 4: Prototipar y Testar](modulo-5-metodologia-paso-a-paso-idear-prototipar-y-testar/herramientas-fase-4-prototipar-y-testar.md)
+  * [Prototipos](modulo-5-metodologia-paso-a-paso-idear-prototipar-y-testar/herramientas-fase-4-prototipar-y-testar/prototipos.md)
+  * [Tipos de prototipos](modulo-5-metodologia-paso-a-paso-idear-prototipar-y-testar/herramientas-fase-4-prototipar-y-testar/tipos-de-prototipos.md)
   * Testeo
   * Presentación
-  * Presentación Herramientas fase 4
+  * [Presentación Herramientas fase 4](modulo-5-metodologia-paso-a-paso-idear-prototipar-y-testar/herramientas-fase-4-prototipar-y-testar/presentacion-herramientas-fase-4.md)
 
 ---
 
