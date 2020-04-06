@@ -68,7 +68,7 @@
 * [Herramientas Fase 4: Prototipar y Testar](modulo-5-metodologia-paso-a-paso-idear-prototipar-y-testar/herramientas-fase-4-prototipar-y-testar.md)
   * [Prototipos](modulo-5-metodologia-paso-a-paso-idear-prototipar-y-testar/herramientas-fase-4-prototipar-y-testar/prototipos.md)
   * [Tipos de prototipos](modulo-5-metodologia-paso-a-paso-idear-prototipar-y-testar/herramientas-fase-4-prototipar-y-testar/tipos-de-prototipos.md)
-  * Testeo
+  * [Testeo](modulo-5-metodologia-paso-a-paso-idear-prototipar-y-testar/herramientas-fase-4-prototipar-y-testar/testeo.md)
   * Presentación
   * [Presentación Herramientas fase 4](modulo-5-metodologia-paso-a-paso-idear-prototipar-y-testar/herramientas-fase-4-prototipar-y-testar/presentacion-herramientas-fase-4.md)
 
