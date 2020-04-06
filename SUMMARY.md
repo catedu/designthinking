@@ -56,4 +56,25 @@
   * [Fase 1: Presentación.](modulo-4-metodologia-paso-a-paso-investigacion-y-definicion/investigacion-herramientas-y-experiencias-segun-aplicacion/fase-1-presentacion.md)
 * [Definición: Herramientas y experiencias según aplicación](modulo-4-metodologia-paso-a-paso-investigacion-y-definicion/definicion-herramientas-y-experiencias-segun-aplicacion.md)
   * [Fase2: Presentación](modulo-4-metodologia-paso-a-paso-investigacion-y-definicion/definicion-herramientas-y-experiencias-segun-aplicacion/fase2-presentacion.md)
+  
+  ## Módulo 5: Metodología paso a paso: Idear, prototipar y testar
 
+* Introducción
+* Ideas y pruebas
+* Herramientas Fase 3: Idear
+  * Técnicas de creatividad
+  * Selección de ideas
+  * Presentación Herramientas fase 3
+* Herramientas Fase 4: Prototipar y Testar
+  * Prototipos
+  * Testeo
+  * Presentación
+  * Presentación Herramientas fase 4
+  
+---
+
+* Conclusiones y cierre
+
+---
+
+* Créditos
