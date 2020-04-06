@@ -4,6 +4,8 @@
 
 Elena Bernia Armengod
 
+<!--
+
 {% for item in book.collaborators %}
 
 {{item.name}}: {{item.edited}}
@@ -12,6 +14,9 @@ Elena Bernia Armengod
 
 {% GitHubContributors %}
 {% endGitHubContributors %}
+
+-->
+
 
 {% include "git+https://github.com/catedu/faq-aularagon.git/imagenes_creditos.md" %}
 
