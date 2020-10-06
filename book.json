@@ -13,12 +13,10 @@
   "variables": {
     "title": "Design Thinking en educación",
     "author": "Elena Bernia",
-    "collaborators": [
-      {
-        "name": "_________",
-        "edited": "_____________"
-      }
-    ]
+    "collaborators": [{
+      "name": "_________",
+      "edited": "_____________"
+    }]
   },
   "pluginsConfig": {
     "image-captions": {
@@ -29,7 +27,7 @@
       "filename": "./FOOTER.md"
     },
     "edit-link": {
-      "base": "Edita esta página",
+      "base": "https://github.com/catedu/designthinking/edit/master",
       "label": "Edita esta página"
     },
     "githubcontributors": {
